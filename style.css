@@ -1,0 +1,12 @@
+body{
+    text-align: center;
+}
+#picture{
+    width: 400px;
+    height: 400px;
+    margin: 10px;
+    object-fit: cover;
+}
+button{
+     padding: 10px 10px;
+}
